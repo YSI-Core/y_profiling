@@ -75,7 +75,7 @@ Optional plugins:
 	Me - sscanf2, fixes2, Whirlpool.
 */
 
-#include "..\y_utils"
+#include <YSI-Core\y_utils>
 
 #if defined YSI_PROFILINGS
 	#if defined INCLUDE_PROFILINGS
